@@ -31,5 +31,5 @@ function monthlySaving(array, number) {
 var Array = [1000, 2000, 3000];
 number = 5400;
 
-monthlySaving(number, array)
+monthlySaving(Array, number);
 
